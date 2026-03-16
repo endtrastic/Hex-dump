@@ -67,7 +67,7 @@ int main()
   }
   printf("%*s ", 3*(0x10 - mem_i % 0x10), "");
   print_clear(s, (mem_i%0x10));
-  printf("\n%08x ", mem_i);
+  printf("\n%08x  ", mem_i);
   printf("\n");
 
 }
