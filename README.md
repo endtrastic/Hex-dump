@@ -1,7 +1,7 @@
 # Using C to create a copy of the hd 
 
 ### *Disclaimer! I didn't come up with this.*
-### *Credit: Video by [Daniel Hirsch]([https://www.youtube.com/watch?v=kMRXd43qMPQ](https://www.youtube.com/watch?v=mukG1kVJ1eY&t=2419s)) on YouTube that walks you through the whole thing.*
+### *Credit: Video by [Daniel Hirsch](https://www.youtube.com/watch?v=mukG1kVJ1eY&t) on YouTube that walks you through the whole thing.*
 
 ## Quick Setup
 ### 1. Clone the repository
